@@ -32,7 +32,7 @@ API_ID = int(environ.get('API_ID', '34915187'))
 API_HASH = environ.get('API_HASH', '11da1790a0248250c58aec0423434f3e')
 
 # Bot token obtained from @BotFather
-BOT_TOKEN = environ.get('BOT_TOKEN', '9158898789:AAEouJVjAGRFahL9aR-3RxCYGR1v0OZeOEU')
+BOT_TOKEN = environ.get('BOT_TOKEN', '')
 
 # Pyrogram session name
 SESSION = environ.get('SESSION', 'dreamxbotz_search')
